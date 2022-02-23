@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt install steam discord fish neofetch vim neovim rhythmbox thunar lutris font-manager polybar bspwm i3 blueman htop nitrogen picom gufw terminator 
+sudo apt install steam discord fish neofetch vim neovim rhythmbox thunar lutris font-manager polybar bspwm i3 blueman htop nitrogen picom gufw terminator
 
 sudo apt install apt-transport-https curl
 
@@ -11,3 +11,4 @@ echo "deb [signed-by=/usr/share/keyrings/brave-browser-archive-keyring.gpg arch=
 sudo apt update
 
 sudo apt install brave-browser
+
