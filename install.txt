@@ -12,3 +12,23 @@ sudo apt update
 
 sudo apt install brave-browser
 
+mv -f i3 ~/.config
+
+mv -f bspwm ~/.config
+
+mv -f dconf ~/.config
+
+mv -f dnust ~/.config
+
+mv -f htop ~/.config
+
+mv -f neofetch ~/.config
+
+mv -f polybar ~/.config
+
+mv -f sxhkd ~/.config
+
+mv -f terminator ~/.config
+
+mv -f ODST.jpeg ~/Downloads/
+
